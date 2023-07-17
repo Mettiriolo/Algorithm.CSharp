@@ -11,7 +11,7 @@ Console.WriteLine(stopwatch.ElapsedMilliseconds+"ms");
 //1. 暴力求解 recursive
 int[] GetLargestSubarrayByRecursive(int[] numbers)
 {
-    int sum = numbers[0], sumTemp = numbers[0], startIndex = 0, endIndex = 0;
+    int sum = numbers[0], sumTemp, startIndex = 0, endIndex = 0;
     for (int i = 0; i < numbers.Length; i++)
     {
         sumTemp = 0;
