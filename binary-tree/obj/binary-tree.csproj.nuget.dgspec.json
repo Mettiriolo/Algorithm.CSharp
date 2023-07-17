@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\divide-and-conquer\\divide-and-conquer.csproj": {}
+    "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\binary-tree\\binary-tree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\divide-and-conquer\\divide-and-conquer.csproj": {
+    "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\binary-tree\\binary-tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\divide-and-conquer\\divide-and-conquer.csproj",
-        "projectName": "divide-and-conquer",
-        "projectPath": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\divide-and-conquer\\divide-and-conquer.csproj",
+        "projectUniqueName": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\binary-tree\\binary-tree.csproj",
+        "projectName": "binary-tree",
+        "projectPath": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\binary-tree\\binary-tree.csproj",
         "packagesPath": "C:\\Users\\yangfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\divide-and-conquer\\obj\\",
+        "outputPath": "C:\\Users\\yangfan\\source\\repos\\Algorithm.CSharp\\binary-tree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

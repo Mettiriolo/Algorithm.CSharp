@@ -1,0 +1,15 @@
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\bin\Debug\net7.0\binary-tree.exe
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\bin\Debug\net7.0\binary-tree.deps.json
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\bin\Debug\net7.0\binary-tree.runtimeconfig.json
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\bin\Debug\net7.0\binary-tree.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\bin\Debug\net7.0\binary-tree.pdb
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.csproj.AssemblyReference.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.AssemblyInfoInputs.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.AssemblyInfo.cs
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.csproj.CoreCompileInputs.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\refint\binary-tree.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.pdb
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\binary-tree.genruntimeconfig.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\binary-tree\obj\Debug\net7.0\ref\binary-tree.dll
