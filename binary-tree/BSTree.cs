@@ -1,4 +1,5 @@
 using System;
+using System.Xml;
 
 namespace binary_tree
 {
@@ -61,8 +62,8 @@ namespace binary_tree
         {
             if (item == null || _root == null)
                 return false;
-            else 
-                return Find(item,_root);
+            else
+                return Find(item, _root);
         }
         private bool Find(T item, BSNode<T> node)
         {
@@ -83,5 +84,35 @@ namespace binary_tree
                     return false;
             }
         }
+
+        //private bool Delete(BSNode<T> node)
+        //{
+        //    if (node.LeftChild == null && node.RightChild == null)
+        //    {
+        //        if (node.Item.CompareTo(node.Parent.Item) < 0)
+        //        {
+        //            node.Parent.LeftChild = null;
+        //        }
+        //        else
+        //        {
+        //            node.Parent.RightChild = null;
+        //        }
+        //        return true;
+        //    }
+        //    else if (node.LeftChild == null && node.RightChild != null)
+        //    {
+        //        node.Item = node.RightChild.Item;
+        //        node.RightChild = null;
+        //    }
+        //    else if (node.LeftChild != null && node.RightChild == null)
+        //    {
+        //        node.Item = node.LeftChild.Item;
+        //        node.LeftChild = null;
+        //    }
+        //    else
+        //    { 
+            
+        //    }
+        //}
     }
 }

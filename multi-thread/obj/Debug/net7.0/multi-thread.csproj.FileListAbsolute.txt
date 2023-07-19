@@ -1,0 +1,12 @@
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\bin\Debug\net7.0\multi-thread.deps.json
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\bin\Debug\net7.0\multi-thread.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\bin\Debug\net7.0\multi-thread.pdb
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.csproj.AssemblyReference.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.AssemblyInfoInputs.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.AssemblyInfo.cs
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.csproj.CoreCompileInputs.cache
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\refint\multi-thread.dll
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\multi-thread.pdb
+C:\Users\yangfan\source\repos\Algorithm.CSharp\multi-thread\obj\Debug\net7.0\ref\multi-thread.dll

@@ -3,13 +3,10 @@ C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.AssemblyInfoInputs.cache
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.AssemblyInfo.cs
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.csproj.CoreCompileInputs.cache
-C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\bin\Debug\net7.0\divide-and-conquer.exe
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\bin\Debug\net7.0\divide-and-conquer.deps.json
-C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\bin\Debug\net7.0\divide-and-conquer.runtimeconfig.json
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\bin\Debug\net7.0\divide-and-conquer.dll
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\bin\Debug\net7.0\divide-and-conquer.pdb
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.dll
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\refint\divide-and-conquer.dll
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.pdb
-C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\divide-and-conquer.genruntimeconfig.cache
 C:\Users\yangfan\source\repos\Algorithm.CSharp\divide-and-conquer\obj\Debug\net7.0\ref\divide-and-conquer.dll

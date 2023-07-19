@@ -6,7 +6,7 @@ namespace binary_tree
         public BSNode<T>? LeftChild { get; set; }
         public BSNode<T>? RightChild { get; set; }
         public BSNode<T>? Parent { get; set; }
-        public T? Item { get; private set; }
+        public T? Item { get;  set; }
 
         public BSNode()
         {
